@@ -45,6 +45,19 @@ To build and evaluate a CHAID decision tree model that:
 ## Conclusion
 The CHAID decision tree effectively identifies customer segments with higher churn likelihood. By applying this model, banks can proactively implement retention strategies, reduce acquisition costs, and improve overall profitability through data-driven insights.
 
+![IBM SPSS Modeler Stream Preview](asset/screenshot.png)
+
+### IBM SPSS Modeler Stream Preview
+
+The image above provides a preview of the workflow built in IBM SPSS Modeler to predict bank customer churn using the CHAID (Chi-squared Automatic Interaction Detection) algorithm. It visually represents the data preparation, model building, and evaluation steps involved in the analysis.
+
+The flow includes:
+- Data import from the `churn_prediction.csv` file.
+- Processing of customer demographics, financial data, and churn flags.
+- Application of the CHAID decision tree algorithm to segment customers based on churn likelihood.
+- Evaluation of model performance through various aggregated results.
+
+
 ## Future Work
 - Compare CHAID performance with advanced algorithms (Random Forest, XGBoost).  
 - Integrate results into a real-time churn prediction dashboard.  
@@ -55,6 +68,8 @@ The CHAID decision tree effectively identifies customer segments with higher chu
 ```
 bank-customer-churn-prediction-chaid-spss/
 │
+├── asset/
+│   └── screenshot.png               # Stream screenshot
 ├── bank_customer_churn.pdf          # Detailed workflow and results
 ├── PROBLEM STATEMENT.pdf            # Problem background
 ├── dataset.csv                      # Input dataset (from Kaggle)
