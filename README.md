@@ -45,7 +45,7 @@ To build and evaluate a CHAID decision tree model that:
 ## Conclusion
 The CHAID decision tree effectively identifies customer segments with higher churn likelihood. By applying this model, banks can proactively implement retention strategies, reduce acquisition costs, and improve overall profitability through data-driven insights.
 
-![IBM SPSS Modeler Stream Preview](asset/screenshot.png)
+![IBM SPSS Modeler Stream Preview](asset/Screenshot%202025-10-28%20003500.png)
 
 ### IBM SPSS Modeler Stream Preview
 
