@@ -4,8 +4,13 @@
 This project predicts bank customer churn using the CHAID (Chi-squared Automatic Interaction Detection) decision tree algorithm in IBM SPSS Modeler. It analyzes customer demographics, tenure, and financial behavior to identify key drivers of churn and assist banks in developing effective customer retention strategies.
 
 ## Problem Statement
-Financial institutions worldwide face an average customer churn rate of 17.6% in 2025, resulting in an estimated $195 billion loss for U.S. banks annually. While acquiring a new customer costs around $390, retaining one costs only $75.  
-This project leverages data analytics and predictive modeling to detect at-risk customers early, identify the main factors influencing churn, and support strategic decision-making to improve customer loyalty.
+In the modern banking industry, customer retention is one of the most pressing challenges. 
+With the rapid digital transformation of financial services and the increasing number of 
+competitors offering similar products, customers can easily switch banks in search of better 
+rates, convenience, or service quality. This phenomenon, known as customer churn, directly 
+impacts a bank’s revenue, profitability, and brand trust. Acquiring a new customer often costs 
+several times more than retaining an existing one, making churn prevention both a strategic 
+and financial necessity.
 
 ## Objective
 To build and evaluate a CHAID decision tree model that:
